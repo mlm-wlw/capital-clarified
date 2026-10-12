@@ -33,11 +33,11 @@ Because this market proportion fluctuates perpetually according to time, place, 
 
 However, closer analysis reveals that when one quarter of wheat exchanges against diverse products in definite ratios:
 
-$
+$$
 \begin{aligned}
 1\text{ quarter wheat} = x\text{ hundredweight iron} = y\text{ shoe polish} = z\text{ gold}
 \end{aligned}
-$
+$$
 
 Each of these distinct commodities represents the exchange-value of one quarter of wheat; therefore, as exchange-values, they must be mutually replaceable and quantitatively equal to one another. This demonstrates two foundational principles:
 1. The valid exchange-values of a given commodity express something identical and equal.
