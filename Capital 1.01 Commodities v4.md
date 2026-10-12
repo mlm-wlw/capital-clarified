@@ -16,7 +16,7 @@ The utility of an object constitutes its use-value. Crucially, this utility poss
 
 This qualitative property remains entirely independent of the quantity of labor required to produce or harvest it. Air, wild fruits, and diamonds all possess utility regardless of the labor spent to acquire them. Use-values become an actuality only through the process of practical use or consumption. Across all historical epochs, use-values constitute the physical content of material wealth, whatever social form that wealth may take. Within capitalist society, however, use-values serve additionally as the physical depositories and material bearers of exchange-value.
 
-$
+$$
 \begin{aligned}
 \boxed{\text{Commodity}} \implies 
 \begin{cases}
@@ -24,7 +24,7 @@ $
 \mathbf{\text{Exchange-Value}} & \text{Quantitative proportion in exchange; outer form of underlying Value}
 \end{cases}
 \end{aligned}
-$
+$$
 
 #### 3. Exchange-Value and the Common Substance of Commodities
 Exchange-value presents itself at first sight as a quantitative proportion: the ratio in which use-values of one kind exchange against use-values of another kind. For example, one quarter of wheat may exchange for a hundredweight of iron, a quantity of shoe polish, or a fraction of an ounce of gold.
@@ -45,13 +45,13 @@ Each of these distinct commodities represents the exchange-value of one quarter 
 
 When an exchange equation is formulated—such as 1 quarter of wheat = $x$ hundredweight of iron—it proves that in two qualitatively distinct physical objects there exists in equal quantities a common element of the same denomination. The two objects must therefore be equal to a common third element to which both are reducible.
 
-$
+$$
 \begin{aligned}
 1\text{ quarter wheat} = x\text{ hundredweight iron} &\xrightarrow{\text{Strip away physical properties}} \text{Complete abstraction from Use-Value} \\
 &\xrightarrow{\text{Strip away specific crafts}} \text{Complete abstraction from Concrete Craftsmanship} \\
 &\xrightarrow{\text{Common substance remaining}} \boxed{\mathbf{\text{Abstract Human Labor (Pure Labor-Power Expended)}}}
 \end{aligned}
-$
+$$
 
 This common denominator cannot consist of any geometric, physical, chemical, or sensory property of the commodities. Natural physical properties matter only insofar as they make the object useful—that is, a use-value. Yet the act of commodity exchange is characterized precisely by a total abstraction from use-value. In exchange, any one use-value is qualitatively identical to any other, provided only that it is present in the appropriate quantitative proportion. As exchange-values, commodities are merely different quantities containing not an atom of physical utility.
 
@@ -77,11 +77,11 @@ The introduction of mechanical power-looms in England illustrates this boundary:
 
 Analytically, each individual commodity functions as an average sample of its class. Commodities containing equal quantities of socially necessary labor-time possess identical magnitudes of value.
 
-$
+$$
 \begin{aligned}
 \boxed{\text{Value Magnitude}} = \text{Quantity of Socially Necessary Labor-Time (SNLT)}
 \end{aligned}
-$
+$$
 
 #### 6. The Fundamental Law of Labor Productivity and Value
 The value of a commodity would remain constant if the labor-time required for its production remained constant. However, this requirement changes with every variation in the productivity of labor. Productivity is governed by five primary factors:
@@ -91,17 +91,17 @@ The value of a commodity would remain constant if the labor-time required for it
 4. The extent and operational efficacy of the means of production (tools and machinery);
 5. Physical and geographic conditions (such as soil fertility, mineral richness, or agricultural weather).
 
-$
+$$
 \begin{aligned}
 \boxed{\text{Value per Unit}} = \frac{\text{Socially Necessary Labor-Time}}{\text{Total Physical Output}} \propto \frac{1}{\text{Productivity of Labor}}
 \end{aligned}
-$
+$$
 
 The fundamental law governing value magnitude states:
 
 > **The Fundamental Law of Value:** The value of a commodity varies directly with the quantity of socially necessary labor-time incorporated in it, and inversely with the productivity of that labor.
 
-$
+$$
 \begin{aligned}
 \uparrow \text{Labor Productivity} \implies 
 \begin{cases}
@@ -110,7 +110,7 @@ $
 \downarrow \text{Labor-Time Expended per Unit} \implies \boxed{\downarrow \text{Value per Single Unit}}
 \end{cases}
 \end{aligned}
-$
+$$
 
 Greater productivity yields more physical goods in an hour, but the total value created during that hour remains identical. Consequently, that constant value is distributed across a greater number of items, reducing the labor-time and value in each individual item. Conversely, reduced productivity increases the labor-time required per item, raising its unit value.
 
@@ -126,7 +126,7 @@ The boundaries of commodity status are defined by four strict conditions:
 3. **Social Utility Transferred Without Exchange:** To become a commodity, a product must be a social use-value produced for others. However, production for others is not by itself sufficient. A medieval peasant who produced grain delivered as feudal rent in kind to a landlord, or as a church tithe to a priest, produced goods for others; yet these goods were not commodities because they were transferred through political coercion or custom, rather than through market exchange.
 4. **The Absolute Boundary of Uselessness:** Nothing can have value unless it is an object of utility. If an article is socially useless, the labor contained in it is equally useless; such exertion does not count as social labor, and creates zero value.
 
-$
+$$
 \begin{aligned}
 \text{Is the object useful?} &\xrightarrow{\text{No}} \boxed{\text{Zero Value (Wasted Labor)}} \\
 \downarrow \text{Yes (Use-Value)} \\
@@ -137,7 +137,7 @@ $
 \text{How is it transferred?} &\xrightarrow{\text{Force/Custom}} \boxed{\text{Feudal dues/tithes (Transferred without market exchange)}} \\
 &\xrightarrow{\text{Market Exchange}} \boxed{\mathbf{\text{Commodity (Use-Value + Social Value)}}}
 \end{aligned}
-$
+$$
 
 ---
 
@@ -146,7 +146,7 @@ $
 #### 1. The Foundational Distinction
 Labor embodied in commodities possesses a two-fold character: on the one hand, it operates as **concrete useful labor**, producing use-values; on the other hand, it operates as **abstract human labor**, creating value. This distinction is the foundational pivot upon which scientific political economy turns. Failing to separate these two aspects of labor produces confusion throughout economic theory.
 
-$
+$$
 \begin{aligned}
 \boxed{\text{Labor in Commodities}} \implies
 \begin{cases}
@@ -154,18 +154,18 @@ $
 \mathbf{\text{Abstract Human Labor}} & \xrightarrow{\text{Creates}} \text{Value (Social substance)}
 \end{cases}
 \end{aligned}
-$
+$$
 
 #### 2. Concrete Useful Labor
 Concrete useful labor is productive activity carried out with a definite aim, using specific operations, instruments, and materials to yield a specific useful result. Tailoring transforms cloth into a coat; weaving transforms yarn into linen. Concrete labor is analyzed exclusively according to its qualitative efficacy and physical result, answering the questions: *What* is made, and *how* is it made?
 
 Two products cannot confront each other as commodities in exchange unless the useful labors embodied within them are qualitatively different. Coats are not traded for identical coats; goods of the exact same kind do not enter into reciprocal exchange. To the diverse varieties of use-values correspond as many qualitatively differentiated species of useful labor across the social division of labor.
 
-$
+$$
 \begin{aligned}
 \boxed{\text{Human Labor (The Father)}} + \boxed{\text{Nature / Matter (The Mother)}} \xrightarrow{\text{Material Transformation}} \boxed{\text{Material Wealth (Use-Values)}}
 \end{aligned}
-$
+$$
 
 Labor is not the sole source of material wealth or use-values. In creating use-values, human labor works as nature works: by altering the forms of matter. In this transformation, human effort is constantly assisted by natural forces. There always remains an irreducible material substratum furnished by nature without human intervention. Labor is the father of material wealth, and the earth is its mother.
 
@@ -183,7 +183,7 @@ When commodities are viewed strictly as values, the concrete differences between
 
 While useful labor answers the qualitative questions of *what* and *how*, value-creating labor answers strictly the quantitative questions of *how much* and *how long*. As values, commodities are merely homogeneous crystallizations of abstract human labor.
 
-$
+$$
 \begin{aligned}
 \begin{array}{rcc}
 & \mathbf{\text{Concrete Useful Labor}} & \mathbf{\text{Abstract Human Labor}} \\
@@ -195,24 +195,24 @@ $
 \text{Productivity Impact:} & \text{Produces more physical units per hour} & \text{Value created per hour remains constant}
 \end{array}
 \end{aligned}
-$
+$$
 
 #### 5. Reducing Skilled Labor to Simple Average Labor
 An objection arises concerning differences in skill and training: how can the specialized work of an engineer, architect, or jeweler be equated to the simple manual labor of an unskilled worker?
 
 Skilled or complex labor counts analytically and practically only as intensified or multiplied simple labor. A smaller quantity of skilled labor equals a larger quantity of simple unskilled labor:
 
-$
+$$
 \begin{aligned}
 1\text{ Hour of Skilled Labor} = k \times (1\text{ Hour of Simple Average Labor}) \quad (k > 1)
 \end{aligned}
-$
+$$
 
-$
+$$
 \begin{aligned}
 \boxed{\text{Diverse Crafts (Engineer, Weaver, Mason)}} \xrightarrow{\text{Equated in Daily Market Exchange}} \boxed{\text{Definite Multiples of Simple Average Labor}}
 \end{aligned}
-$
+$$
 
 Everyday market transactions continuously execute this reduction. Whatever specialized craft a commodity may embody, the social act of equating it to other commodities in exchange reduces its value to definite quantities of simple average labor alone. This reduction operates behind the backs of individual producers, causing the ratios to appear established by custom or tradition.
 
@@ -225,7 +225,7 @@ This conflicting movement arises directly from the two-fold character of labor:
 - Productive efficiency pertains exclusively to labor in its concrete useful form. A rise in productivity increases the quantity of physical goods created in an hour.
 - Productive efficiency has zero bearing on labor considered as abstract human labor. Equal periods of labor-time of average intensity always create identical amounts of value, regardless of changes in productivity.
 
-$
+$$
 \begin{aligned}
 \begin{array}{ccc}
 \boxed{\uparrow \text{Labor Productivity}} & \implies & \boxed{\uparrow \text{Material Wealth (More physical coats produced)}} \\
@@ -233,7 +233,7 @@ $
 \boxed{\text{Total Value per Hour is Fixed}} & \implies & \boxed{\downarrow \text{Value per Single Coat (Less SNLT per item)}}
 \end{array}
 \end{aligned}
-$
+$$
 
 The same rise in productive efficiency that increases the volume of physical goods created within a given time simultaneously diminishes the value of each individual item, and diminishes the total value of the aggregate produce whenever it shortens the total socially necessary labor-time required for production. Technological progress routinely produces greater material abundance while lowering unit values.
 
@@ -257,24 +257,24 @@ Traditional economics failed to trace the development of the money-form from its
 #### 2. The Elementary Form of Value (Form A)
 The simplest expression of value occurs when one commodity is equated to another:
 
-$
+$$
 \begin{aligned}
 20\text{ yards of linen} = 1\text{ coat}
 \end{aligned}
-$
+$$
 
 In this equation, the two commodities play fundamentally opposed and asymmetric roles:
 - **The Relative Form (The Active Pole):** The linen expresses its value in the coat; it plays the active role.
 - **The Equivalent Form (The Passive Pole):** The coat serves as the physical material in which the linen's value is expressed; it plays the passive role.
 
-$
+$$
 \begin{aligned}
 \begin{array}{ccc}
 \boxed{\mathbf{20\text{ Yards Linen}}} & \overset{\text{expresses value in}}{\xrightarrow{\hspace{3cm}}} & \boxed{\mathbf{1\text{ Coat}}} \\
 \left[\begin{array}{c} \mathbf{\text{Relative Form}} \\ \text{Active pole; seeks expression} \\ \text{Value magnitude represented} \\ \text{Cannot express value in itself} \end{array}\right] & & \left[\begin{array}{c} \mathbf{\text{Equivalent Form}} \\ \text{Passive pole; bodily mirror} \\ \text{Directly exchangeable} \\ \text{Concrete body represents value} \end{array}\right]
 \end{array}
 \end{aligned}
-$
+$$
 
 The relative form and the equivalent form are mutually dependent and inseparable poles of the same expression of value, yet they are mutually exclusive extremes:
 1. A commodity cannot occupy both positions simultaneously in the same expression. The linen cannot express its value in itself: $20\text{ yards linen} = 20\text{ yards linen}$ is a meaningless tautology that expresses no value.
@@ -293,7 +293,7 @@ The equation $20\text{ yards linen} = 1\text{ coat}$ implies that both contain e
 - **Case III (Both Values Change Simultaneously in Equal Proportions):** If the labor-times of both linen and coat shift in the same direction and at the exact same rate, the relative expression $20\text{ yards linen} = 1\text{ coat}$ remains completely unchanged, despite real alterations in their absolute values. The change becomes visible only when both are compared against a third commodity whose value remained constant.
 - **Case IV (Opposing or Unequal Variations):** When the labor-times of linen and coat shift in opposite directions, or at unequal rates, the resulting relative values are compound combinations of Cases I, II, and III.
 
-$
+$$
 \begin{aligned}
 \begin{array}{lcccc}
 \hline
@@ -308,7 +308,7 @@ $
 \hline
 \end{array}
 \end{aligned}
-$
+$$
 
 These permutations establish an essential principle: **real changes in the magnitude of value are neither unequivocally nor exhaustively reflected in relative market expressions.** A commodity's relative value may alter while its real value remains constant; its relative value may remain constant while its real value alters; and simultaneous changes in value and relative expression need not correspond in amount.
 
@@ -316,17 +316,17 @@ Critics (such as Broadhurst) seized upon this discrepancy to deny the labor theo
 
 This objection commits a basic mathematical error: confusing the numerator of a fraction with the fractional ratio itself:
 
-$
+$$
 \begin{aligned}
 \frac{\text{Value of Linen}}{\text{Value of Coat}} = \frac{10}{20} = \frac{1}{2} \quad \xrightarrow{\text{Coat value rises to } 50} \quad \frac{10}{50} = \frac{1}{5}
 \end{aligned}
-$
+$$
 
-$
+$$
 \begin{aligned}
 \boxed{\text{Numerator (Linen) remains fixed at } 10} \quad \text{while the relational ratio drops from } \frac{1}{2} \text{ to } \frac{1}{5}
 \end{aligned}
-$
+$$
 
 A ratio alters whenever its denominator changes, leaving the numerator completely unchanged. Confusing a shifting relational proportion with the absolute magnitude of the numerator is an elementary mathematical confusion.
 
@@ -336,7 +336,7 @@ In the equivalent form, three inversions occur:
 2. **Concrete Craftsmanship Represents Abstract Labor:** Concrete tailoring counts in this relation solely as the embodiment of undifferentiated human labor.
 3. **Private Labor Takes the Form of Social Labor:** The private labor of the independent tailor functions immediately as social labor recognized by the linen.
 
-$
+$$
 \begin{aligned}
 \text{In the Equivalent Form (The Coat):} \implies
 \begin{cases}
@@ -345,7 +345,7 @@ $
 \mathbf{\text{Private Independent Labor}} &\xrightarrow{\text{takes the form of}} \mathbf{\text{Directly Social Labor}}
 \end{cases}
 \end{aligned}
-$
+$$
 
 *Relational Boundary:* These three features hold for the coat exclusively within and during the specific value-relation in which it stands as equivalent to the linen. Outside this relation, the coat is merely an ordinary useful object.
 
@@ -361,11 +361,11 @@ The secret of value—that all kinds of labor are equal because they are human l
 #### 6. The Expanded Form of Value (Form B)
 The elementary form is inherently deficient: it expresses value solely in terms of a single, accidental partner. To overcome this limitation, the value-relation expands into the Total or Expanded Form:
 
-$
+$$
 \begin{aligned}
 20\text{ yards linen} = 1\text{ coat} \quad \text{or} \quad = 10\text{ lbs tea} \quad \text{or} \quad = 1\text{ quarter corn} \quad \text{or} \quad = 2\text{ oz gold} \dots
 \end{aligned}
-$
+$$
 
 In this expanded form, the value of linen is expressed across numberless commodities. This proves that value is an objective crystallization of undifferentiated human labor, revealing the fundamental truth that **the magnitude of a commodity's value regulates its exchange proportions, rather than market trades determining value.**
 
@@ -377,7 +377,7 @@ However, the Expanded Form suffers from three structural defects:
 #### 7. The General Form of Value (Form C)
 When the expanded series is reversed, all commodities express their values in one and the same excluded commodity:
 
-$
+$$
 \begin{aligned}
 \left.
 \begin{array}{r}
@@ -389,7 +389,7 @@ x\text{ Commodity A}
 \end{array}
 \right\} = \boxed{\mathbf{20\text{ yards of linen}}} \quad (\text{Universal Equivalent})
 \end{aligned}
-$
+$$
 
 All commodities now express their value with simplicity and social unity. Commodities appear to one another as exchange-values for the first time, and the excluded commodity (linen) becomes the **Universal Equivalent**.
 
@@ -404,7 +404,7 @@ This mutual exclusion refutes utopian proposals (such as Pierre-Joseph Proudhon'
 #### 8. The Money Form (Form D)
 Between the General Form (Form C) and the Money Form (Form D), there exists no structural difference, save that social habit has definitively fixed the role of universal equivalent to the specific physical material of gold:
 
-$
+$$
 \begin{aligned}
 \left.
 \begin{array}{r}
@@ -415,9 +415,9 @@ $
 \end{array}
 \right\} = \boxed{\mathbf{2\text{ ounces of gold}}} \implies \boxed{\text{Price: } \$40}
 \end{aligned}
-$
+$$
 
-$
+$$
 \begin{aligned}
 \begin{array}{clc}
 \mathbf{\text{Form A (Elementary):}} & 20\text{ yards linen} = 1\text{ coat} & [\text{Accidental, one-on-one trade}] \\
@@ -429,7 +429,7 @@ $
 \mathbf{\text{Form D (Money):}} & \left. \begin{array}{l} 20\text{ yards linen} \\ 1\text{ coat} \\ 10\text{ lbs tea} \end{array} \right\} = \boxed{2\text{ ounces gold}} & \left[\begin{array}{c} \text{Universal equivalent is gold} \\ \text{Price: expressed in money} \end{array}\right]
 \end{array}
 \end{aligned}
-$
+$$
 
 Gold functions as money only because it was previously an ordinary commodity possessing value as a product of human labor. Money is neither an arbitrary legal convention nor a mere symbol; it is an actual commodity whose physical body has become socially fused with the universal equivalent role.
 
@@ -448,7 +448,7 @@ To understand where this mysterious character comes from, consider where it does
 3. **Not from the duration of labor:** In all historical epochs, tracking the labor-time required to secure subsistence has interested humanity.
 4. **Not from labor being cooperative:** People have always worked in social cooperation with one another across history.
 
-$
+$$
 \begin{aligned}
 \begin{array}{lcc}
 \hline
@@ -462,7 +462,7 @@ $
 \hline
 \end{array}
 \end{aligned}
-$
+$$
 
 The mysterious character arises strictly and exclusively from the commodity-form itself:
 - The social equality of human labor assumes the objective form of the equal market value of products;
@@ -472,7 +472,7 @@ The mysterious character arises strictly and exclusively from the commodity-form
 #### 2. The Social Inversion: Relations Between People Disguised as Relations Between Things
 In commodity production, the social character of labor is reflected back to producers as an objective property stamped upon the products themselves. The relation of producers to the aggregate labor of society presents itself not as a direct social relation between persons in their work, but as a material relation between persons and a social relation between things.
 
-$
+$$
 \begin{aligned}
 \begin{matrix}
 \boxed{\text{Isolated Private Producers}} & \xrightarrow{\text{Carry out labor independently}} & \boxed{\text{No direct social coordination}} \\
@@ -482,13 +482,13 @@ $
 \boxed{\text{Social Relations between People}} & \xleftarrow{\text{Inverted appearance}} & \boxed{\text{Material Relations between Things}}
 \end{matrix}
 \end{aligned}
-$
+$$
 
 Contrast this with physical vision: in the optics of the eye, light rays physically travel from an external object to the optic nerve—an actual physical transmission between physical things. In stark contrast, the commodity-form and value relations involve zero physical transmission between objects. It is purely a definite social relationship between human beings that assumes, in their eyes, the imaginary form of a relation between things.
 
 The true parallel exists only in religion. In the religious realm, the creations of the human mind appear as autonomous beings endowed with life, entering into relations with each other and with humanity. Exactly so in the world of commodities: the products of human hands appear as autonomous goods that interact on markets and rule over their creators.
 
-$
+$$
 \begin{aligned}
 \begin{array}{ccc}
 \mathbf{\text{Actual Underlying Reality}} & & \mathbf{\text{Inverted Market Appearance}} \\
@@ -498,7 +498,7 @@ $
 \text{Mutual relations between producers} & \implies & \text{Autonomous relations between commodities}
 \end{array}
 \end{aligned}
-$
+$$
 
 #### 3. The Material Groundwork of Market Illusions
 Useful articles become commodities only because they are produced by private individuals or enterprises who carry on their productive activities independently of one another. The sum total of these private labors forms the aggregate labor of society; but because producers do not enter into social contact until they exchange their goods, the social character of each individual's labor asserts itself exclusively in the act of exchange.
@@ -538,7 +538,7 @@ To prove that commodity fetishism is not an eternal law of nature but the histor
      2. It serves as a measure of the individual producer's participation in common labor and personal share of consumable wealth.
    Social relations of producers, with regard both to their labor and to their products, remain completely simple, intelligible, and transparent in both production and distribution.
 
-$
+$$
 \begin{aligned}
 \begin{array}{lcccc}
 \hline
@@ -552,7 +552,7 @@ $
 \hline
 \end{array}
 \end{aligned}
-$
+$$
 
 The mystical veil that shrouds the material life-process of society will not be stripped away until production becomes the production of freely associated human beings, consciously regulated in accordance with a settled social plan. This conscious regulation demands a specific material foundation that can itself be only the historical result of a long and arduous development.
 
@@ -564,13 +564,13 @@ Classical political economy (culminating in Adam Smith and David Ricardo) achiev
 
 Traditional economic analysis fell into the **retrospective trap**: human reflection upon social life follows a course directly opposite to actual historical development. Scientific inquiry begins retrospectively, looking backward after events occur and taking finished results (money, prices, commercial markets) as ready-made starting points.
 
-$
+$$
 \begin{aligned}
 \boxed{\text{Historical Development of Exchange}} \xrightarrow{\text{Produces finished result}} \boxed{\text{Prices, Markets, and Money}} \\
 \Downarrow \text{ Economists analyze backward from finished results} \\
 \boxed{\text{Finished Market Forms}} \xrightarrow{\text{Mistaken for}} \boxed{\mathbf{\text{Timeless Laws of Nature (Eternal Truths)}}}
 \end{aligned}
-$
+$$
 
 Because the commodity-form and money had already acquired the stability of natural social forms before theoretical reflection began, political economy took these historically emerged forms for granted as eternal natural laws.
 
