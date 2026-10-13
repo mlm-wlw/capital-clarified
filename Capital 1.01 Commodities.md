@@ -18,15 +18,11 @@ This physical utility remains completely independent of the quantity of labor re
 
 Across all historical epochs, use-values constitute the material content of wealth, whatever specific social form that wealth may assume. Within capitalist society, however, use-values perform an additional, distinct function: they serve simultaneously as the physical depositories and material bearers of exchange-value.
 
-$$
-\begin{aligned}
-\boxed{\text{Commodity}} \implies 
-\begin{cases}
-\mathbf{\text{Use-Value}} & \text{Physical utility; satisfies human wants; actualized in consumption} \\
-\mathbf{\text{Exchange-Value}} & \text{Quantitative proportion in exchange; outward form of underlying Value}
-\end{cases}
-\end{aligned}
-$$
+$$\mathbf{\text{The Commodity}}
+\begin{cases} 
+\mathbf{\text{Use-Value:}} & \text{Physical utility; satisfies human wants; actualized in consumption} \\
+\mathbf{\text{Value:}} & \text{Quantitative proportion in exchange; outward form of underlying Value}
+\end{cases}$$
 
 #### 3. Exchange-Value as the Outward Form of an Inner Substance
 Exchange-value presents itself empirically as a quantitative relation or ratio in which use-values of one kind exchange against use-values of another kind. For example, 1 quarter wheat may exchange on the market for a definite quantity of shoe polish, a silk garment, or a fraction of an ounce of gold.
@@ -75,7 +71,7 @@ This objection collapses because the substance of value is not arbitrary private
 
 Each individual labor-power counts as average social labor-power only insofar as it requires for production no more time than is needed on average, no more than is socially necessary:
 
-> **Socially Necessary Labor-Time** is the labor-time required to produce any use-value under normal conditions of production, and with the average degree of skill and intensity of labor prevalent at the time.
+**Socially Necessary Labor-Time** is the labor-time required to produce any use-value under normal conditions of production, and with the average degree of skill and intensity of labor prevalent at the time.
 
 The introduction of mechanical power-looms in England provides historical proof of this distinction. Power-looms cut by half the labor-time required to weave yarn into cloth. Hand-loom weavers continued expending twelve hours of private labor per yard; yet their twelve hours now represented only six hours of socially necessary labor, cutting their cloth's value in half. Private labor expended beyond the socially necessary average creates zero value.
 
@@ -103,7 +99,7 @@ $$
 
 This relationship yields the fundamental law governing commodity production:
 
-> **The Fundamental Law of Value Magnitude:** The magnitude of value of a commodity varies directly with the quantity of socially necessary labor-time embodied in it, and inversely with the productivity of the labor employed in its production.
+**The Fundamental Law of Value Magnitude:** The magnitude of value of a commodity varies directly with the quantity of socially necessary labor-time embodied in it, and inversely with the productivity of the labor employed in its production.
 
 $$
 \begin{aligned}
@@ -243,7 +239,7 @@ Commodities are dual entities: both objects of physical utility and bearers of v
 
 Value possesses a purely social, supersensible reality containing not an atom of physical matter. An isolated commodity cannot reveal value in its own natural body or physical form, because commodities acquire value objectivity solely as crystallizations of a common social substance: abstract human labor.
 
-> **The Principle of Value Expression:** Value can manifest itself only in the social relation where one commodity confronts another.
+**The Principle of Value Expression:** Value can manifest itself only in the social relation where one commodity confronts another.
 
 Bourgeois political economy failed to discover the genesis of the money-form because it never analyzed the development of the value expression from its embryonic germ through to its monetary manifestation. To dissolve the enigma of money, the value-form develops through four stages:
 1. **Form A (The Elementary Form of Value):** A single commodity expresses its value in one other commodity.
@@ -278,6 +274,12 @@ The relative and equivalent forms are inseparable yet mutually exclusive extreme
 4. Inverting the equation ($1\text{ coat} = 20\text{ yards linen}$) reverses the polar functions: the coat becomes relative, and linen becomes the equivalent.
 
 Human labor-power in motion (the active process of laboring) creates value, but is not itself value. Labor becomes value only when it becomes congealed, static, and objectified in a commodity body within a social relation of exchange. Because a commodity cannot express its value in its own physical body, it must undergo an objective bifurcation, doubling itself into its natural bodily form and an external value-form, projecting its internal contradiction onto the external world of goods.
+
+$$\mathbf{\text{The Commodity}}
+\begin{cases} 
+\mathbf{\text{Use-Value:}} & \text{Physical, concrete, materially bounded, qualitatively distinct} \\
+\mathbf{\text{Value:}} & \text{Purely social, abstract, boundless, homogeneous} 
+\end{cases}$$
 
 #### 3. Polar Asymmetry and the Relational Value Mirror
 In the elementary equation of value, the two commodities stand in a strictly asymmetrical relation: Commodity $A$ occupies the relative form (the active pole that expresses its value), while Commodity $B$ occupies the equivalent form (the passive pole that serves as the material embodiment of value).
@@ -337,9 +339,9 @@ A ratio alters whenever its denominator changes, leaving the numerator unchanged
 
 #### 5. The Three Peculiarities of the Equivalent Form
 In the equivalent form, three structural inversions occur:
-1. **The First Peculiarity:** Physical use-value becomes the form of appearance of its opposite, value. The raw physical body of the coat serves directly as the visible manifestation of the linen's non-physical social value.
-2. **The Second Peculiarity:** Concrete useful labor becomes the form of manifestation of its opposite, abstract human labor. The specific craft labor of tailoring counts solely as the tangible incarnation of undifferentiated human labor.
-3. **The Third Peculiarity:** Private labor carried on independently takes the form of its opposite, labor in directly social form. The isolated private labor producing the equivalent commodity is treated immediately as labor recognized by and performed for society as a whole.
+1. Physical use-value becomes the form of appearance of its opposite, value. The raw physical body of the coat serves directly as the visible manifestation of the linen's non-physical social value.
+2. Concrete useful labor becomes the form of manifestation of its opposite, abstract human labor. The specific craft labor of tailoring counts solely as the tangible incarnation of undifferentiated human labor.
+3. Private labor carried on independently takes the form of its opposite, labor in directly social form. The isolated private labor producing the equivalent commodity is treated immediately as labor recognized by and performed for society as a whole.
 
 $$
 \begin{aligned}
