@@ -1,7 +1,5 @@
 # Capital, Volume 1, Chapter 1: Commodities
 
----
-
 ### Section 1: The Two Factors of a Commodity: Use-Value and Value (Substance and Magnitude of Value)
 
 #### 1. Social Wealth and the Elementary Commodity Form
@@ -111,9 +109,9 @@ $$
 \begin{aligned}
 \uparrow \text{Labor Productivity} \implies 
 \begin{cases}
-\uparrow \text{Physical Output (More useful articles produced per hour)} \\
-\text{Total Value Created per Hour Remains Fixed} \\
-\downarrow \text{Labor-Time Expended per Unit} \implies \boxed{\downarrow \text{Value per Single Unit}}
+\uparrow \text{Physical Output (Useful articles / hr)} \\
+\text{= Total Value Created / hr} \\
+\downarrow \text{Labor-Time Expended / Unit} \implies \boxed{\downarrow \text{Value / Unit}}
 \end{cases}
 \end{aligned}
 $$
@@ -191,12 +189,12 @@ While physiological expenditure occurs across all epochs, abstract human labor i
 
 $$
 \begin{array}{rcc}
-& \mathbf{\text{Concrete Useful Labor}} & \mathbf{\text{Abstract Human Labor}} \\ \hline
+& \mathbf{\text{Concrete Useful Labor}} & \mathbf{\text{Abstract Human Labor}} \\ 
 \text{Primary Function:} & \text{Produces Use-Values} & \text{Creates Value} \\
 \text{Analytical Nature:} & \text{Qualitative (Craft techniques)} & \text{Quantitative (Labor-time)} \\
 \text{Determinations:} & \text{Qualitative (What and how)} & \text{Quantitative (Labor duration and magnitude)} \\
 \text{Historical Scope:} & \text{Universal human metabolic necessity} & \text{Specific to commodity-producing societies} \\
-\text{Productivity Impact:} & \text{Produces more physical units per hour} & \text{Value created per hour remains constant} \\ \hline
+\text{Productivity Impact:} & \text{Produces more physical units per hour} & \text{Value created per hour remains constant} \\ 
 \end{array}
 $$
 
@@ -269,7 +267,7 @@ This elementary form of value contains within itself the entire secret of all hi
 $$
 \begin{array}{ccc}
 \boxed{\mathbf{20\text{ Yards Linen}}} & \overset{\text{expresses value in}}{\xrightarrow{\hspace{3cm}}} & \boxed{\mathbf{1\text{ Coat}}} \\
-{\small \left[\begin{array}{c} \mathbf{\text{Relative Value-Form}} \\ \text{Active pole; seeks expression} \\ \text{Value magnitude represented} \\ \text{Cannot express value in itself} \end{array}\right]} & & {\small \left[\begin{array}{c} \mathbf{\text{Equivalent Value-Form}} \\ \text{Passive pole; bodily mirror} \\ \text{Directly exchangeable} \\ \text{Concrete body represents value} \end{array}\right]}
+\left[\begin{array}{c} \mathbf{\text{Relative Value-Form}} \\ \text{Active pole; seeks expression} \\ \text{Value magnitude represented} \\ \text{Cannot express value in itself} \end{array}\right] & & \left[\begin{array}{c} \mathbf{\text{Equivalent Value-Form}} \\ \text{Passive pole; bodily mirror} \\ \text{Directly exchangeable} \\ \text{Concrete body represents value} \end{array}\right]
 \end{array}
 $$
 
@@ -282,14 +280,14 @@ The relative and equivalent forms are inseparable yet mutually exclusive extreme
 Human labor-power in motion (the active process of laboring) creates value, but is not itself value. Labor becomes value only when it becomes congealed, static, and objectified in a commodity body within a social relation of exchange. Because a commodity cannot express its value in its own physical body, it must undergo an objective bifurcation, doubling itself into its natural bodily form and an external value-form, projecting its internal contradiction onto the external world of goods.
 
 #### 3. Polar Asymmetry and the Relational Value Mirror
-In the category of commodities, the value expression can be modeled as a directed morphism $v: A \to B$, where Commodity $A$ is the domain (the relative form) and Commodity $B$ is the codomain (the equivalent form). 
+In the elementary equation of value, the two commodities stand in a strictly asymmetrical relation: Commodity $A$ occupies the relative form (the active pole that expresses its value), while Commodity $B$ occupies the equivalent form (the passive pole that serves as the material embodiment of value).
 
-While the identity morphism on utility preserves physical self-identity, the value morphism is strictly non-reflexive:
+Because value is a purely social relation between commodities, a commodity cannot express value in its own physical body. Physical self-identity merely affirms that a thing is identical to itself, whereas the expression of value requires an external confrontation between two different commodities:
 
 $$
 \begin{aligned}
-\text{Identity Morphism on Utility:} \quad & \text{id}_A: A \xrightarrow{\text{use-value}} A \quad (20\text{ yards linen} = 20\text{ yards linen}) \\
-\text{Value Morphism Non-Reflexivity:} \quad & v: A \xrightarrow{\text{value}} B \quad (B \neq A)
+\text{Physical Self-Identity (No Value Relation):} \quad & 20\text{ yards linen} = 20\text{ yards linen} \\
+\text{Dialectical Value Expression (Relational Reflection):} \quad & 20\text{ yards linen} \xrightarrow{\text{expressed in}} 1\text{ coat} \quad (\text{where } \text{Coat} \neq \text{Linen})
 \end{aligned}
 $$
 
@@ -297,8 +295,8 @@ In the relative form, Commodity A endows its value with objective existence by e
 
 $$
 \begin{array}{ccc}
-\boxed{\text{Commodity } A \text{ (Domain)}} & \xrightarrow{\quad v \quad} & \boxed{\text{Commodity } B \text{ (Codomain)}} \\
-{\small \left[\begin{array}{c} \mathbf{\text{Relative Form}} \\ \text{Active pole; seeks expression} \\ \text{Value magnitude represented} \\ \text{Cannot express value in itself} \end{array}\right]} & & {\small \left[\begin{array}{c} \mathbf{\text{Equivalent Form}} \\ \text{Passive pole; bodily mirror} \\ \text{Directly exchangeable} \\ \text{Concrete body represents value} \end{array}\right]}
+\boxed{\text{Commodity } A \text{ (Linen)}} & \xrightarrow{\quad \text{expressed in} \quad} & \boxed{\text{Commodity } B \text{ (Coat)}} \\
+\left[\begin{array}{c} \mathbf{\text{Relative Form}} \\ \text{Active pole; seeks expression} \\ \text{Value magnitude represented} \\ \text{Cannot express value in itself} \end{array}\right] & & \left[\begin{array}{c} \mathbf{\text{Equivalent Form}} \\ \text{Passive pole; bodily mirror} \\ \text{Directly exchangeable} \\ \text{Concrete body represents value} \end{array}\right]
 \end{array}
 $$
 
@@ -307,12 +305,11 @@ The equation $20\text{ yards linen} = 1\text{ coat}$ implies that both contain e
 
 $$
 \begin{array}{lcccc}
-\hline
-\textbf{Permutation} & \textbf{Linen Labor-Time} & \textbf{Coat Labor-Time} & \textbf{Relative Expression} & \textbf{Outcome} \\ \hline
+\textbf{Permutation} & \textbf{Linen Labor-Time} & \textbf{Coat Labor-Time} & \textbf{Relative Expression} & \textbf{Outcome} \\ 
 \text{Case I (Direct)} & \text{Doubles / Halves} & \text{Constant} & 20\text{ yds linen} = \mathbf{2\text{ coats} / \frac{1}{2}\text{ coat}} & \text{Linen relative value doubles / halves} \\
 \text{Case II (Inverse)} & \text{Constant} & \text{Doubles / Halves} & 20\text{ yds linen} = \mathbf{\frac{1}{2}\text{ coat} / 2\text{ coats}} & \text{Linen relative value halves / doubles} \\
 \text{Case III (Static)} & \text{Changes by } r & \text{Changes by } r & 20\text{ yds linen} = \mathbf{1\text{ coat}} & \text{Ratio static despite real value shifts} \\
-\text{Case IV (Compound)} & \text{Unequal shift} & \text{Unequal shift} & \text{Compound divergence} & \text{Complex relational shift} \\ \hline
+\text{Case IV (Compound)} & \text{Unequal shift} & \text{Unequal shift} & \text{Compound divergence} & \text{Complex relational shift} \\ 
 \end{array}
 $$
 
@@ -375,14 +372,14 @@ $$
 \end{aligned}
 $$
 
-Category-theoretically, Form B represents a single source object projecting an infinite family of divergent morphisms into the commodity realm:
+In the Expanded Form, a single commodity projects its value across an open-ended, endless series of distinct commodities:
 
 $$
 \begin{array}{rcl}
-& \xrightarrow{\quad e_1 \quad} & \boxed{\text{Commodity } B \text{ (1 coat)}} \\
-& \xrightarrow{\quad e_2 \quad} & \boxed{\text{Commodity } C \text{ (10 lbs tea)}} \\
-\boxed{\text{Commodity } A \text{ (20 yds linen)}} & \xrightarrow{\quad e_3 \quad} & \boxed{\text{Commodity } D \text{ (1 qr corn)}} \\
-& \xrightarrow{\quad e_4 \quad} & \boxed{\text{Commodity } E \text{ (2 oz gold)}} \\
+& \xrightarrow{\quad \text{expressed in} \quad} & \boxed{\text{Commodity } B \text{ (1 coat)}} \\
+& \xrightarrow{\quad \text{expressed in} \quad} & \boxed{\text{Commodity } C \text{ (10 lbs tea)}} \\
+\boxed{\text{Commodity } A \text{ (20 yds linen)}} & \xrightarrow{\quad \text{expressed in} \quad} & \boxed{\text{Commodity } D \text{ (1 qr corn)}} \\
+& \xrightarrow{\quad \text{expressed in} \quad} & \boxed{\text{Commodity } E \text{ (2 oz gold)}} \\
 & \xrightarrow{\quad \dots \quad} & \dots
 \end{array}
 $$
@@ -395,7 +392,7 @@ However, the Expanded Form suffers from three fatal dialectical defects:
 3. **Fragmentation:** Each commodity constructs its own distinct infinite series, producing mutually incompatible standards of equivalence.
 
 #### 8. The General Form of Value (Form C) as Universal Social Integration
-A categorical breakthrough occurs through universal diagrammatic inversion: when the expanded series is reversed, all commodities express their values in a single, common, socially excluded commodity:
+A decisive dialectical breakthrough occurs through the total inversion of the expanded series: when the equation is reversed, all commodities express their values in a single, common, socially excluded commodity:
 
 $$
 \left.
@@ -406,31 +403,31 @@ $$
 2\text{ oz gold} \\
 x\text{ Commodity } A_n
 \end{array}
-\right\rbrace = \boxed{\mathbf{20\text{ yards of linen}}} \quad (\text{Universal Equivalent } U)
+\right\rbrace = \boxed{\mathbf{20\text{ yards of linen}}} \quad (\text{Universal Equivalent})
 $$
 
-All commodities now express their value with simplicity and social unity. The excluded commodity (linen) becomes the **Universal Equivalent**, serving as the universal target object or colimit in the category of commodities:
-
-$$
-\begin{array}{ccc}
-\boxed{\text{Commodity } A_1 \text{ (1 coat)}} & \xrightarrow{\quad \mu_1 \quad} & \\
-\boxed{\text{Commodity } A_2 \text{ (10 lbs tea)}} & \xrightarrow{\quad \mu_2 \quad} & \boxed{\mathbf{U} \text{ (20 yards linen)}} \\
-\boxed{\text{Commodity } A_3 \text{ (1 qr corn)}} & \xrightarrow{\quad \mu_3 \quad} & {\small \left[\begin{array}{c} \mathbf{\text{Universal Target Object / Colimit}} \\ \text{All private labors factor through } U \\ \text{Direct universal exchangeability} \end{array}\right]} \\
-\boxed{\text{Commodity } A_n \text{ (Commodity } n\text{)}} & \xrightarrow{\quad \mu_n \quad} &
-\end{array}
-$$
-
-Every pairwise exchange between two commodities $A_i$ and $A_j$ factors uniquely through the universal equivalent object $U$:
+All commodities now express their value with elementary simplicity and social unity. The excluded commodity (linen) becomes the **Universal Equivalent**, serving as the common social mirror for the entire world of commodities:
 
 $$
 \begin{array}{ccc}
-\boxed{\text{Commodity } A_i} & \xrightarrow{\quad f_{ij} \quad} & \boxed{\text{Commodity } A_j} \\
-& \searrow_{\mu_i} \quad \nearrow_{\mu_j^{-1}} & \\
-& \boxed{\mathbf{U}} &
+\boxed{\text{Commodity } A_1 \text{ (1 coat)}} & \xrightarrow{\quad \text{expresses value in} \quad} & \\
+\boxed{\text{Commodity } A_2 \text{ (10 lbs tea)}} & \xrightarrow{\quad \text{expresses value in} \quad} & \boxed{\mathbf{20\text{ Yards Linen}}} \\
+\boxed{\text{Commodity } A_3 \text{ (1 qr corn)}} & \xrightarrow{\quad \text{expresses value in} \quad} & \left[\begin{array}{c} \mathbf{\text{Universal Equivalent}} \\ \text{Direct universal exchangeability} \\ \text{Embodies directly social abstract labor} \end{array}\right] \\
+\boxed{\text{Commodity } A_n \text{ (Commodity } n\text{)}} & \xrightarrow{\quad \text{expresses value in} \quad} &
 \end{array}
 $$
 
-where $f_{ij} = \mu_j^{-1} \circ \mu_i$. Every disparate private labor embodied in $A_i$ is mapped into $U$, where it is transformed into directly social abstract labor.
+Because every commodity expresses its value in this common equivalent, any two commodities can now equate their values and exchange with each other through the mediation of the universal equivalent:
+
+$$
+\begin{array}{ccc}
+\boxed{\text{Commodity } A} & \overset{\text{indirect exchange via common mirror}}{\xleftrightarrow{\hspace{4.5cm}}} & \boxed{\text{Commodity } B} \\
+& \searrow \qquad\qquad\qquad\qquad\qquad\qquad \swarrow & \\
+& \boxed{\mathbf{\text{Universal Equivalent (Linen)}}} &
+\end{array}
+$$
+
+Through this central mediator, every disparate private labor embodied in Commodity $A$ and Commodity $B$ is equated to the labor embodied in the universal equivalent, thereby achieving validation as part of the total abstract labor of society.
 
 The General Form of Value results from the collective social action of the entire commodity world: a commodity attains the status of universal equivalent only because all other commodities collectively isolate it as their common mirror.
 
@@ -454,12 +451,12 @@ $$
 \right\rbrace = \boxed{\mathbf{2\text{ ounces of gold}}} \implies \boxed{\text{Price: 40 dollars}}
 $$
 
-Category-theoretically, every commodity $A_i$ now admits a unique canonical price morphism into the physical gold commodity $G$:
+Every commodity now expresses its value directly in the bodily substance of gold, giving rise to the price of the commodity:
 
 $$
 \begin{array}{ccc}
-\boxed{\text{Commodity } A_i} & \xrightarrow{\quad p_i \quad} & \boxed{\mathbf{G} \text{ (Gold Commodity)}} \\
-{\small \left[\begin{array}{c} \text{Relative Commodity} \\ \text{Private, concrete labor} \end{array}\right]} & & {\small \left[\begin{array}{c} \mathbf{\text{Universal Money Object}} \\ \text{Directly social equivalent} \\ \text{Universal purchasing power} \end{array}\right]}
+\boxed{\text{Everyday Commodity}} & \xrightarrow{\quad \text{price expressed in} \quad} & \boxed{\mathbf{\text{Gold (Money Commodity)}}} \\
+\left[\begin{array}{c} \text{Relative Value-Form} \\ \text{Private, concrete labor} \end{array}\right] & & \left[\begin{array}{c} \mathbf{\text{Universal Equivalent}} \\ \text{Directly social labor} \\ \text{Universal purchasing power} \end{array}\right]
 \end{array}
 $$
 
@@ -468,10 +465,10 @@ $$
 \mathbf{\text{Form A (Elementary):}} & 20\text{ yards linen} = 1\text{ coat} & [\text{Accidental, one-on-one trade}] \\
 & \Downarrow & \\
 \mathbf{\text{Form B (Expanded):}} & 20\text{ yards linen} = \begin{cases} 1\text{ coat} \\ 10\text{ lbs tea} \\ 1\text{ quarter corn} \\ 2\text{ oz gold} \end{cases} & [\text{Endless, disconnected chain}] \\
-& \Downarrow \text{ (Universal diagrammatic inversion)} & \\
-\mathbf{\text{Form C (General):}} & \left. \begin{array}{l} 1\text{ coat} \\ 10\text{ lbs tea} \\ 1\text{ quarter corn} \end{array} \right\rbrace = \boxed{20\text{ yards linen}} & {\small \left[\begin{array}{c} \text{Single universal equivalent} \\ \text{Unified social colimit} \end{array}\right]} \\
+& \Downarrow \text{ (Reversal of the series)} & \\
+\mathbf{\text{Form C (General):}} & \left. \begin{array}{l} 1\text{ coat} \\ 10\text{ lbs tea} \\ 1\text{ quarter corn} \end{array} \right\rbrace = \boxed{20\text{ yards linen}} & \left[\begin{array}{c} \text{Single universal equivalent} \\ \text{Unified social standard} \end{array}\right] \\
 & \Downarrow \text{ (Social monopoly fixed on gold)} & \\
-\mathbf{\text{Form D (Money):}} & \left. \begin{array}{l} 20\text{ yards linen} \\ 1\text{ coat} \\ 10\text{ lbs tea} \end{array} \right\rbrace = \boxed{2\text{ ounces gold}} & {\small \left[\begin{array}{c} \text{Universal equivalent is gold} \\ \text{Price: expressed in money} \end{array}\right]}
+\mathbf{\text{Form D (Money):}} & \left. \begin{array}{l} 20\text{ yards linen} \\ 1\text{ coat} \\ 10\text{ lbs tea} \end{array} \right\rbrace = \boxed{2\text{ ounces gold}} & \left[\begin{array}{c} \text{Universal equivalent is gold} \\ \text{Price: expressed in money} \end{array}\right]
 \end{array}
 $$
 
@@ -494,13 +491,12 @@ The origin of this mystical character does **not** arise from:
 
 $$
 \begin{array}{lcc}
-\hline
-\textbf{Element} & \textbf{Material Characteristics} & \textbf{Explains Commodity Fetish} \\ \hline
+\textbf{Element} & \textbf{Material Characteristics} & \textbf{Explains Commodity Fetish} \\ 
 \text{Physical Use-Value} & \text{Tangible material utility} & \textbf{No} \\
 \text{Physiology of Labor} & \text{Universal expenditure of human energy} & \textbf{No} \\
 \text{Duration of Labor-Time} & \text{Measuring temporal duration} & \textbf{No} \\
 \text{Social Interdependence} & \text{Human cooperation across epochs} & \textbf{No} \\
-\mathbf{\text{The Commodity-Form}} & \mathbf{\text{Private labor validated only in exchange}} & \mathbf{\text{YES: Sole Source of Mystery}} \\ \hline
+\mathbf{\text{The Commodity-Form}} & \mathbf{\text{Private labor validated only in exchange}} & \mathbf{\text{YES: Sole Source of Mystery}} \\ 
 \end{array}
 $$
 
@@ -512,13 +508,13 @@ The mystical character of commodities arises strictly and exclusively from the c
 #### 2. The Social Inversion: Relations Between People Disguised as Relations Between Things
 In commodity production, the social characteristics of men's labor are reflected back to them as objective properties stamped upon the products of labor themselves. The relation of producers to society's aggregate labor presents itself not as a direct social relation between persons in their work, but as a material relation between persons and a social relation between things.
 
-This objective substitutive inversion (*quid pro quo* [substituting one thing for another]) forms the core of reification. In category-theoretic terms, the category of human productive relations and the category of physical market transactions form a reification commuting square:
+This objective substitutive inversion (substituting things for social relations) forms the core of reification: the social character of labor is transferred onto physical objects, while human social relations take on the appearance of material ties:
 
 $$
 \begin{array}{ccc}
-\boxed{\begin{array}{c} \text{Social Relations Between Persons} \\ \text{(Interdependent Private Labors } L_i, L_j\text{)} \end{array}} & \xrightarrow{\quad \text{Social Division of Labor} \quad} & \boxed{\begin{array}{c} \text{Material Relations Between Persons} \\ \text{(Monetary Wages, Contracts, Sales)} \end{array}} \\[10pt]
-\Big\downarrow {\scriptsize \text{Real Abstraction (Reification)}} & & \Big\downarrow {\scriptsize \text{Market Domination}} \\[10pt]
-\boxed{\begin{array}{c} \text{Physical Bodies of Useful Goods} \\ \text{(Use-Values } C_i, C_j\text{)} \end{array}} & \xrightarrow[\quad \text{Commuting Exchange Morphism } f_{ij} \quad]{} & \boxed{\begin{array}{c} \text{Social Relations Between Things} \\ \text{(Commodity Values and Price Movements)} \end{array}}
+\boxed{\begin{array}{c} \mathbf{\text{Social Relations Between Persons}} \\ \text{Producers carry on isolated private labors} \end{array}} & \xrightarrow{\quad \text{disguised as} \quad} & \boxed{\begin{array}{c} \mathbf{\text{Material Relations Between Persons}} \\ \text{Interactions mediated by money and contracts} \end{array}} \\[10pt]
+\Big\downarrow \text{inverted into} & & \Big\downarrow \text{governed by} \\[10pt]
+\boxed{\begin{array}{c} \mathbf{\text{Physical Products of Labor}} \\ \text{Material use-values produced privately} \end{array}} & \xrightarrow{\quad \text{manifested as} \quad} & \boxed{\begin{array}{c} \mathbf{\text{Social Relations Between Things}} \\ \text{Commodities rule producers via price movements} \end{array}}
 \end{array}
 $$
 
@@ -528,15 +524,15 @@ The true analogy exists in religion: creations of the human brain appear as auto
 
 $$
 \begin{array}{ccc}
-\mathbf{\text{Actual Underlying Reality}} & & \mathbf{\text{Inverted Market Appearance}} \\ \hline
+\mathbf{\text{Actual Underlying Reality}} & & \mathbf{\text{Inverted Market Appearance}} \\ 
 \text{Equality of human labor-power} & \implies & \text{Equal exchange-value of physical products} \\
 \text{Duration of social labor-time} & \implies & \text{Quantitative market price of goods} \\
-\text{Mutual relations between producers} & \implies & \text{Autonomous relations between commodities} \\ \hline
+\text{Mutual relations between producers} & \implies & \text{Autonomous relations between commodities} \\ 
 \end{array}
 $$
 
 #### 3. The Material Basis of Social Illusion in Private Production
-The social groundwork of commodity fetishism is the regime of private, independent producers who carry on their productive activities in isolation. The sum total of these private labors constitutes society's aggregate labor; but because producers do not enter into social contact until they exchange their products on the market, the social character of each individual's labor asserts itself exclusively *post festum* [after the fact], in market exchange.
+The social groundwork of commodity fetishism is the regime of private, independent producers who carry on their productive activities in isolation. The sum total of these private labors constitutes society's aggregate labor; but because producers do not enter into social contact until they exchange their products on the market, the social character of each individual's labor asserts itself exclusively after the fact, in market exchange.
 
 Consequently:
 1. Labor must satisfy a definite social want as concrete useful labor;
@@ -575,13 +571,12 @@ To demonstrate that commodity fetishism is not an eternal law of nature but the 
 
 $$
 \begin{array}{lcccc}
-\hline
-\textbf{Economic System} & \textbf{Organization of Labor} & \textbf{Contact Between Producers} & \textbf{Fetishism Status} \\ \hline
+\textbf{Economic System} & \textbf{Organization of Labor} & \textbf{Contact Between Producers} & \textbf{Fetishism Status} \\ 
 \text{Isolated Individual on Island} & \text{Individual self-direction} & \text{Directly transparent} & \text{None (Relations are obvious)} \\
 \text{Feudal Middle Ages} & \text{Direct personal dependence} & \text{Direct labor services in kind} & \text{None (Personal dues are transparent)} \\
 \text{Traditional Peasant Family} & \text{Domestic familial cooperation} & \text{Direct shared labor} & \text{None (Work distributed by custom)} \\
 \mathbf{\text{Capitalist Commodity Production}} & \mathbf{\text{Isolated private producers}} & \mathbf{\text{Indirectly via market exchange}} & \mathbf{\text{Full Fetishism (Things rule people)}} \\
-\text{Planned Free Association} & \text{Conscious collective plan} & \text{Direct planned cooperation} & \text{Dissolved (Planned and transparent)} \\ \hline
+\text{Planned Free Association} & \text{Conscious collective plan} & \text{Direct planned cooperation} & \text{Dissolved (Planned and transparent)} \\ 
 \end{array}
 $$
 
